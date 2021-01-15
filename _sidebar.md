@@ -1,5 +1,6 @@
 - [Overview](/)
 
-- [Getting started](/quick-start)
+- Getting started
 
+  - [Example: Hello world](/hello-world)
   - [Quick start](/quick-start)
