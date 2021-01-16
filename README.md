@@ -8,7 +8,7 @@
 
 <img align="right" width="160px" src="https://raw.githubusercontent.com/8treenet/blog/master/img/freedom.png">
 
-Freedom is a [Go](https://golang.org/) framework that helps you develop web application use DDD (Domain Design Driven) on [Go](https://golang.org/).
+Freedom is a [Go](https://golang.org/) framework that helps you develop web application use DDD (Domain Driven Design) on [Go](https://golang.org/).
 
 
 ## Features
